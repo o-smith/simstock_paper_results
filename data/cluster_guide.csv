@@ -1,0 +1,21 @@
+,nondom1,dom2,dom1,dom3,dom0,dom4,nondom0
+FLOOR_1: use,Shop,Dwell,Dwell,Dwell,Dwell,Dwell,Hospitality
+age,PRE-1914,PRE-1914,PRE-1914,PRE-1914,PRE-1914,1945-1980,PRE-1914
+epc_rating_current,,D,missing,E,D,D,
+epc_rating_potential,,C,missing,C,B,C,
+d_epc_mainht_fuel,,Mains Gas,Mains Gas,Mains Gas,Mains Gas,Mains Gas,
+d_epc_mainht_plant,,Boiler,Boiler,Boiler,Boiler,Boiler,
+d_epc_mainht_room,,Radiators,Radiators,Radiators,Radiators,Radiators,
+d_epc_secondht_fuel,,None,missing,None,None,None,
+d_epc_dhw_fuel,,Mains Gas,missing,Mains Gas,Mains Gas,Mains Gas,
+d_epc_dhw_plant,,Boiler,missing,Boiler,Boiler,Boiler,
+d_epc_envelope_flr_type,,Above (premises),missing,Suspended,Suspended,Above (premises),
+d_epc_envelope_flr_insulation,,Internal Floor,No,No,No,Internal Floor,
+d_epc_envelope_rf_type,,Below (premises),missing,Pitched,Pitched,Below (premises),
+d_epc_envelope_rf_insulation,,Internal Floor,No,Yes,Yes,Internal Floor,
+d_epc_envelope_wall_type,,Solid Brick,missing,Solid Brick,Solid Brick,Cavity,
+d_epc_envelope_wall_insulation,,No,missing,No,No,No,
+d_epc_glazing_type,,Double,missing,Double (pre 2002),Double,Double (pre 2002),
+height,4.78,8.67,5.97,6.0,5.75,21.03,4.0
+nofloors,2,3,2,2,2,7,1
+wwr,0.1161541041876954,0.05,0.1239097984335282,0.05,0.05,0.05,0.124606798579401
